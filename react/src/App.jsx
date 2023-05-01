@@ -1,13 +1,13 @@
-import { useState } from 'react'
 
-import './App.css'
+
+
 
 function App() {
   
 
   return (
     <>
-      <div>
+      <div className=' bg-blue-300 font-sans'>
         Appjsx
       </div>
     </>
